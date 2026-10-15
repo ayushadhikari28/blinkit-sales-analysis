@@ -3,7 +3,7 @@
 Interactive Power BI dashboard analysing BlinkIt grocery sales by item type, fat content, outlet size, location tier and outlet type.
 
 ## Dataset
-- File: `BlinkIT Grocery Data.xlsx`
+- File: `BlinkIT Grocery Data.xls`
 - 8,523 records, 10 outlets, 1,559 unique items, 16 item types
 - Source: Kaggle
 
@@ -27,7 +27,7 @@ Excel, Power BI Desktop, Power Query, DAX
 Standardised fat content labels (`LF`, `low fat`, `reg`) into `Low Fat` and `Regular`.
 
 ## How to Open
-Download `blinkit.pbix` and open it with Power BI Desktop.
+Download `blinkit.pbix` from the Blinkit Project folder and open it with Power BI Desktop..
 
 ## Author
 Ayush Adhikari | https://www.linkedin.com/in/ayushadhikari28/
